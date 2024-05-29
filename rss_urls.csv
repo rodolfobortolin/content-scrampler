@@ -1,0 +1,9 @@
+RSS,RSS URL,Name,Type,Element
+false,https://www.futuretools.io/news,Future Tools News,class,w-dyn-items
+true,https://www.cprime.com/resources/blog/category/atlassian-software/atlassian-jira/feed/, Cprime,class,post-content
+true,https://atlassianblog.wpengine.com/feed, Atlassian Blog,class,site-main
+true,https://atlassianexpert.tips/feed/,Atlassian Expert,class,content
+true,https://www.jirastrategy.com/feed/,Jira Strategy,class,site-main
+true,https://blog.valiantys.com/en/feed/, Valiantys,class,l-article__main
+true,https://www.tempo.io/blog/rss.xml,TEMPO Blog,class, body-col
+true,https://developer.atlassian.com/cloud/jira/platform/changelog/rss/a/89b72181-83df-404f-b73d-ebf055a9332e,Atlassian Developer - Changelog for Jira,,,
